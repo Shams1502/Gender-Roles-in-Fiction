@@ -1,3 +1,10 @@
-#IS 417 PROJECT CODE
+# is417project
+Fall21 IS417 Project - Gender Roles in Fiction
 
-This folder contains the code that we are writing to answer the questions to our research questions. Our code will be written using in Python using Jupyter notebooks. 
+The purpose of this project is to analyse the gender roles in a variety of fiction novels over time. We want to observe the evolution of characters developed by authors in their novels and be able to answer the following questions. 
+
+- Have stereotypical roles for men and women changed over time? We believe that novels written maybe in the 90s or early 2000s would have more stereotypical male and female characters, but they wouldn't age well today. 
+
+- Do authors of a specific genre create a certain type of character? 
+
+- How do gender roles differ across different genres?
